@@ -14,3 +14,11 @@
 1. Item 2
 1. Item 3
 1. Item 4
+
+| Column 1 | Column 2 | Column 3 |
+|:--------:|:--------:|:--------:|
+|   Row 1  |  Row 1   |   Row 1  |
+|   Row 2  |  Row 2   |   Row 2  |
+|   Row 3  |  Row 3   |   Row 3  |
+|   Row 4  |  Row 4   |   Row 4  |
+|   Row 5  |  Row 5   |   Row 5  |
